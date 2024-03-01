@@ -1,0 +1,11 @@
+{
+	"name": "azsalinkGen2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://dabrisa1.dfs.core.windows.net/"
+		}
+	}
+}

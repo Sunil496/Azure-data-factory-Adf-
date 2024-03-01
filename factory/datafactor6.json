@@ -1,0 +1,9 @@
+{
+	"name": "datafactor6",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d8ace94-a321-446f-9c94-1b1c325e6490",
+		"tenantId": "7a71e9a4-c718-4787-afc8-d979333c834f"
+	}
+}
